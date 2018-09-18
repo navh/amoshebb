@@ -9,7 +9,7 @@ Amos Navarre Hebb
 Officer Cadet at the Royal Military College 
 -------------------------------------------
 
-###Skills
+### Skills
 
 *Languages:* Native English, Fluent in French
 
@@ -32,13 +32,13 @@ Officer Cadet at the Royal Military College
 * TensorFlow
 
 
-###Work Experience
+### Work Experience
 
 2015 - Current: *Aerospace Engineering Officer* at Royal Canadian Air Force
 
 Full-time ROTP at Royal Military College studying for Bachelor of Engineering in Computer Engineering, leadership training required to become a commanding officer, and standard professional military and teamwork training. Summers spent at operational units with aerospace engineering and air maintenance staff, deployment to Iqaluit, Search and Rescue training operations, procurement and certification of explosives storage facilities, and basic military training.
 
-###Education
+### Education
 
 May 2019 - *Bachelor of Engineering* in Computer Engineering at *Royal Military College* 
 
@@ -56,6 +56,6 @@ June 2013 - Honours with Distinction, *Northeast Kings Educational Centre* in Ca
 
 Valedictorian, Students Council
 
-###Fun
+### Fun
 
 Travel, Cycling, Camping, Model Aircraft, eating apples!
