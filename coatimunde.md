@@ -3,8 +3,7 @@ layout: "page"
 title: Coatimunde
 ---
 
-# coatimunde
-Computer Optical Analyzing Trajectories In Mostly Unknown, Navigation Denied, Environments
+##### Computer Optical Analyzing Trajectories In Mostly Unknown, Navigation Denied, Environments
 
 ## Summary
 Navigation toward a Visual Target while Avoiding Obstacles
