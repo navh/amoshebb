@@ -9,9 +9,6 @@ Amos Navarre Hebb
 Officer Cadet at the Royal Military College 
 -------------------------------------------
 
-{% include toc.html %}
-
-
 ###Skills
 
 *Languages:* Native English, Fluent in French
