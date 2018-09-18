@@ -40,19 +40,19 @@ Full-time ROTP at Royal Military College studying for Bachelor of Engineering in
 
 ### Education
 
-May 2019 - *Bachelor of Engineering* in Computer Engineering at *Royal Military College* 
+##### May 2019 - *Bachelor of Engineering* in Computer Engineering at *Royal Military College* 
 
 In the Software Engineering stream, working on my [thesis](https://www.amoshebb.com/coatimunde) during a concurrent military and accredited engineering program. 
 
-April 2015 - First year in *Engineering* at *Memorial University of Newfoundland*
+##### April 2015 - First year in *Engineering* at *Memorial University of Newfoundland*
 
 Credits transferred to Royal Military College
 
-April 2014 - Certificat d’enseignement secondaire supérieur, *Institut St. Michel* in Neufchâteau, Belgium
+##### April 2014 - Certificat d’enseignement secondaire supérieur, *Institut St. Michel* in Neufchâteau, Belgium
 
 Cultrual and academic exchange year sponsored by Rotary Club of Kentville, Nova Scotia
 
-June 2013 - Honours with Distinction, *Northeast Kings Educational Centre* in Canning, Nova Scotia
+##### June 2013 - Honours with Distinction, *Northeast Kings Educational Centre* in Canning, Nova Scotia
 
 Valedictorian, Students Council
 
