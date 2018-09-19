@@ -1,7 +1,6 @@
 ---
 title: Trying To Turn On TurtleBot
 updated: 2018-09-17
-category: projects
 ---
 
 # TurtleBot
