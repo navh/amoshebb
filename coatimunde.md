@@ -20,7 +20,7 @@ Links to software within the Repo and quick descriptions about what they do.
 
 Links to documents produced for this project.
 
-[Project Diary](https://github.com/navh/coatimunde/blob/master/DIARY.md) to be updated whenever work is done.
+[Project Diary](https://www.amoshebb.com/coatimunde/index.html) to be updated whenever work is done.
 
 [Report]() to be submitted when project is finished.
 
