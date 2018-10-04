@@ -30,7 +30,7 @@ Links to each deliverable to be added once produced.
 
 * [EEE455/457-DID-01: Project Commitment Document (PCD)](/assets/Project Commitment Document.pdf)
 * EEE455/457-DID-02: Part Order Form
-* EEE455/457-DID-03: Statement of Requirement (SOR)
+* [EEE455/457-DID-03: Statement of Requirement (SOR)](/assets/SORHebbStephan.pdf)
 * EEE455/457-DID-04: Preliminary Design Specification (PDS)
 * EEE455/457-DID-05: Design Review Presentation (DR)
 * EEE455/457-DID-06: Schedule Update (SU)
