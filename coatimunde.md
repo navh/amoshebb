@@ -33,7 +33,7 @@ Links to each deliverable to be added once produced.
 * [EEE455/457-DID-03: Statement of Requirement (SOR)](/assets/SORHebbStephan.pdf)
 * [EEE455/457-DID-04: Preliminary Design Specification (PDS)](/assets/PrelimDesignHebbStephan.pdf)
 * EEE455/457-DID-05: Design Review Presentation (DR)
-* EEE455/457-DID-06: Schedule Update (SU)
+* [EEE455/457-DID-06: Schedule Update (SU)] (/assets/ScheduleUpdateHebbStephan.pdf)
 * EEE455/457-DID-07: Detailed Design Document (DDD)
 * EEE455/457-DID-08: Final Project Presentation (FPP)
 * EEE455/457-DID-09: Final Project Demonstration (FPD)
