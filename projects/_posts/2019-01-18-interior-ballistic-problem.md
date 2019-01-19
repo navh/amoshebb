@@ -3,6 +3,8 @@ title: Interior Ballistic Problem
 updated: 2019-01-18
 ---
 
+[Link to the github repository for this project.](https://github.com/navh/InteriorBallistic)
+
 ## Jack’s Antique Software 
 
 Last night a good friend of mine, Jack, came to talk to me about calculating the wild math that goes on inside an artillery piece when it is being fired.
