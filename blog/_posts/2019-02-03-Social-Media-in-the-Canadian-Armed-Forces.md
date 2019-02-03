@@ -3,6 +3,7 @@ title: Social Media in the Canadian Armed Forces
 updated: 2019-02-03 14:57
 author: Amos Navarre Hebb
 published: true
+permalink: /2019/02/03/social-media-in-the-canadian-armed-forces
 ---
 [Click here for printer friendly format](https://www.amoshebb.com/assets/Hebb2019-Social_Media_use_in_CAF.pdf)
 
