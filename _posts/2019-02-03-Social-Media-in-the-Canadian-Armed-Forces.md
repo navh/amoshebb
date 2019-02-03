@@ -1,12 +1,11 @@
 ---
 title: Social Media in the Canadian Armed Forces
 updated: 2019-02-03 14:57
+author: Amos Navarre Hebb
 published: true
 ---
 
-By 27714 Officer Cadet Amos Navarre Hebb
-
-To maintain a positive media presence, the benefits and drawbacks of social media use must be researched by senior staff and policymakers to provide best practices and guidance to newer members of the Canadian Armed Forces.
+*To maintain a positive media presence, the benefits and drawbacks of social media use must be researched by senior staff and policymakers to provide best practices and guidance to newer members of the Canadian Armed Forces.*
 
 ## Introduction
 
@@ -188,3 +187,16 @@ McKinnon, Melody. 2018. “2018 Report: Canadian Social Media Use Statistics.”
 [^13]: Willyerd, Jeanne. 2015. “Mentoring Millennials.” Harvard Business Review. https://hbr.org/2010/05/mentoring-millennials.
 
 [^14]: Snapchat Support. https://support.snapchat.com/en-GB/a/snap-map-about.
+
+##### Cite this work
+
+```latex
+@misc{hebb_2019,
+	author={Hebb, Amos Navarre}, 
+	title={Social Media in the Canadian Armed Forces}, 
+	url={https://www.amoshebb.com/2019/02/03/social-media-in-the-canadian-armed-forces},
+	year={2019}, month={2}}
+```
+
+
+
