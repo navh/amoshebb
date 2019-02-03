@@ -15,9 +15,9 @@ In response to an incident of inappropriate use of social media, this document h
 
 ### Background
 
-Social media has become an increasingly prominent mechanism of communication. To the military, there are many potential benefits. Recruitment purposes and general information can be shared through social media. Currently every branch of the CAF has a social media presence.[^8]
+Social media has become an increasingly prominent mechanism of communication. To the military, there are many potential benefits. Recruitment purposes and general information can be shared through social media. Currently every branch of the CAF has a social media presence.[^9]
 
-Members of the CAF too have social media accounts, much like most members of society.[^7] These personally owned accounts [^4] are the topic of this paper. Without the formal training of Public Affairs personnel and oversight by the chain of command, it is possible for members to breach security, disclose sensitive information, or discredit the CAF.
+Members of the CAF too have social media accounts, much like most members of society.[^8] These personally owned accounts [^4] are the topic of this paper. Without the formal training of Public Affairs personnel and oversight by the chain of command, it is possible for members to breach security, disclose sensitive information, or discredit the CAF.
 
 The principal finding of this paper is that there is a significant gap between younger personnel who are comfortable with social media, and senior staff who are struggling to understand the implications, both positive and negative, of its widespread use by members of the CAF.
 
@@ -27,13 +27,13 @@ The principal finding of this paper is that there is a significant gap between y
 
 ### Social Media
 
-A set of web-based tools and services that permit participants with distinct user profiles to create, share and interact with user-generated content, including text, images, videos and audio.[^9]
+A set of web-based tools and services that permit participants with distinct user profiles to create, share and interact with user-generated content, including text, images, videos and audio.[^10]
 
 ### Digital Natives
 
 For the purposes of this document, any reference to younger personnel or digital natives will not be tied to specific generations, but instead anybody who was raised in a digital, media-saturated, world.[^3]
 
-They are more comfortable with social media, 94% of Canadians 18-24 use social media weekly, with 92% visit Facebook once a week, 79% of which visit daily, 82% visiting Instagram, and 78% using Snapchat at least weekly.[^7] Between these services and others like Pintrest, Tumblr, Reddit, Youtube, and LinkedIn, a Canadian Youth will spend on average 37 minutes a day consuming social media.
+They are more comfortable with social media, 94% of Canadians 18-24 use social media weekly, with 92% visit Facebook once a week, 79% of which visit daily, 82% visiting Instagram, and 78% using Snapchat at least weekly.[^8] Between these services and others like Pintrest, Tumblr, Reddit, Youtube, and LinkedIn, a Canadian Youth will spend on average 37 minutes a day consuming social media.
 
 The expectation of privacy and relative comfort with posting status updates to these platforms is significantly lower among those raised with the technology than, generally older, digital immigrants.[^3]
 
@@ -49,7 +49,7 @@ Given that the segment of Canada's population that is the most connected to this
 
 ### Increased Loyalty
 
-Harvard Business Review suggests that younger workers have earned a reputation as attention sponges. A sense of purpose is a key factor in job satisfaction, and make strong personal commitments to community service.[^13] The CAF members already do activities they are proud of, serve a greater purpose, and are interesting to those outside of the military. Encouraging members to share their stories more may help them feel more fulfilled as an employee and could increase their loyalty to the CAF.[^6]
+Harvard Business Review suggests that younger workers have earned a reputation as attention sponges. A sense of purpose is a key factor in job satisfaction, and make strong personal commitments to community service.[^14] The CAF members already do activities they are proud of, serve a greater purpose, and are interesting to those outside of the military. Encouraging members to share their stories more may help them feel more fulfilled as an employee and could increase their loyalty to the CAF.[^6]
 
 ### Reputation Management
 
@@ -61,7 +61,7 @@ The CAF has already recognized the importance of using digital tools for recruit
 
 ### Member-Generated Content
 
-While some Official Social Media Accounts (OSMA) already exist [^8], the number of these accounts is limited to ensure cohesiveness and prevent a loss of credibility, trust, and confidence in the DND and CAF.[^9]
+While some Official Social Media Accounts (OSMA) already exist [^9], the number of these accounts is limited to ensure cohesiveness and prevent a loss of credibility, trust, and confidence in the DND and CAF.[^10]
 
 An increased social media presence is desirable to the CAF, and Official Social Media Accounts are limited. Therefore encouraging member-generated content is a vital part to a Social Media strategy.
 
@@ -77,15 +77,15 @@ Seemingly innocent conversation has always been a threat to OpSec and PerSec, ho
 
 ### Geotagging
 
-Many social media platforms involve Location-based information. Snapchat will display a 'bitmoji' charactercher of a person in their current location, usually accurate to a few meters in a feature called the 'snapmap' which be viewed from any browser.[^14] Heatmaps from fitness trackers like Strava have revealed precise maps of US Military instillations in classified areas.[^12] Unassuming apps like Pokemon GO, Waze, and most weather apps reveal a significant amount of information about the location and habits of users. Geotags are added to most photographs, videos, and posts made on most apps. They are the equivalent of adding a 10-digit grid coordinate to everything posted.[^10]
+Many social media platforms involve Location-based information. Snapchat will display a 'bitmoji' charactercher of a person in their current location, usually accurate to a few meters in a feature called the 'snapmap' which be viewed from any browser.[^15] Heatmaps from fitness trackers like Strava have revealed precise maps of US Military instillations in classified areas.[^13] Unassuming apps like Pokemon GO, Waze, and most weather apps reveal a significant amount of information about the location and habits of users. Geotags are added to most photographs, videos, and posts made on most apps. They are the equivalent of adding a 10-digit grid coordinate to everything posted.[^11]
 
 ### Discipline and Good Order
 
-Members of the CAF are held to the standards of the Code of Service Discipline when using social media. Commenting, posting, and linking to material that does not respect the principles of professionalism, transparency, inclusiveness, respectfulness and accountability can lead to a loss of trust and confidence in the CAF that is expected by Canadians.[^9]
+Members of the CAF are held to the standards of the Code of Service Discipline when using social media. Commenting, posting, and linking to material that does not respect the principles of professionalism, transparency, inclusiveness, respectfulness and accountability can lead to a loss of trust and confidence in the CAF that is expected by Canadians.[^10]
 
 ### Rumours and Bullying
 
-Social media can cause anxiety and stress for military personnel and their families; for instance, research uncovered examples of rumour-mongering and bullying in the British Army on social media.[^11]
+Social media can cause anxiety and stress for military personnel and their families; for instance, research uncovered examples of rumour-mongering and bullying in the British Army on social media.[^12]
 
 This can be damaging to personal mental health, unit cohesion, and unit morale.
 
@@ -159,34 +159,35 @@ Closing the gap that currently exists between newer members and unclear policy w
 
 ## References
 
-[^1]: Akin, David. 2018. “Canada’s Armed Forces, Struggling to Hit Diversity Goals, Turns to New Digital Recruiting Tools.” Global News. Global News. https://globalnews.ca/news/4450927/canada-armed-forces-diversity-goals-digital-recruiting/.
+[^1]: [Akin, David. 2018. “Canada’s Armed Forces, Struggling to Hit Diversity Goals, Turns to New Digital Recruiting Tools.” Global News. Global News.](https://globalnews.ca/news/4450927/canada-armed-forces-diversity-goals-digital-recruiting/)
 
-[^2]: Barker, Shane. 2018. “Five Simple and Effective Ways to Humanize Your Brand with Social Media.” Forbes. Forbes Magazine. https://www.forbes.com/sites/forbescoachescouncil/2018/01/03/five-simple-and-effective-ways-to-humanize-your-brand-with-social-media/#7f0fb107a1d0.
+[^2]: [Barker, Shane. 2018. “Five Simple and Effective Ways to Humanize Your Brand with Social Media.” Forbes. Forbes Magazine.](https://www.forbes.com/sites/forbescoachescouncil/2018/01/03/five-simple-and-effective-ways-to-humanize-your-brand-with-social-media/#7f0fb107a1d0)
 
-[^3]: Barlow, John Perry. 1996. “A Declaration of the Independence of Cyberspace.” Electronic Frontier Foundation, February. https://www.eff.org/cyberspace-independence.
+[^3]: [Barlow, John Perry. 1996. “A Declaration of the Independence of Cyberspace.” Electronic Frontier Foundation, February.](https://www.eff.org/cyberspace-independence)
 
 [^4]: Defence Terminology Bank record 694936. n.d.
 
-[^5]: Earnscliffe Strategy Group. 2018. “Views of the Canadian Armed Forces 2018 Tracking Study.” POR-ROP 076-17. http://epe.lac-bac.gc.ca/100/200/301/pwgsc-tpsgc/por-ef/national_defence/2018/076-17-e/summary.pdf.
+[^5]: [Earnscliffe Strategy Group. 2018. “Views of the Canadian Armed Forces 2018 Tracking Study.” POR-ROP 076-17.](http://epe.lac-bac.gc.ca/100/200/301/pwgsc-tpsgc/por-ef/national_defence/2018/076-17-e/summary.pdf)
 
-[^6]: Erdogmus, Irem Eren. 2012. “The Impact of Social Media Marketing on Brand Loyalty.” Procedia - Social and Behavioral Sciences 58: 1353–60. https://www.sciencedirect.com/science/article/pii/S1877042812045818.
+[^6]: [Erdogmus, Irem Eren. 2012. “The Impact of Social Media Marketing on Brand Loyalty.” Procedia - Social and Behavioral Sciences 58: 1353–60.](https://www.sciencedirect.com/science/article/pii/S1877042812045818)
 
 [^7]: Madden, Mary, and Aaron Smith. 2010. “Reputation Management and Social Media.”
-McKinnon, Melody. 2018. “2018 Report: Canadian Social Media Use Statistics.” Canadian’s Internet Business. https://canadiansinternet.com/2018-report-canadian-social-media-use-statistics/.
 
-[^8]: National Defence. 2018a. “Stay Connected.” DND CAF. http://www.forces.gc.ca/en/stay-connected.page.
+[^8]: [McKinnon, Melody. 2018. “2018 Report: Canadian Social Media Use Statistics.” Canadian’s Internet Business.](https://canadiansinternet.com/2018-report-canadian-social-media-use-statistics/)
 
-[^9]: DAOD 2008-8, Official Use of Social Media. Government of Canada, National Defence. http://forces.gc.ca/en/about-policies-standards-defence-admin-orders-directives-2000/2008-8.page.
+[^9]: [National Defence. 2018a. “Stay Connected.” DND CAF.](http://www.forces.gc.ca/en/stay-connected.page)
 
-[^10]: Perry, Amy. 2018. “OPSEC, Privacy Concerns at Top of Social Media Issues.” Fort Lee Traveller. https://www.fortleetraveller.com/commentary/opsec-privacy-concerns-at-top-of-social-media-issues/article_a71205b6-b75c-11e8-9473-5fbfbcf43c67.html.
+[^10]: [DAOD 2008-8, Official Use of Social Media. Government of Canada, National Defence.](http://forces.gc.ca/en/about-policies-standards-defence-admin-orders-directives-2000/2008-8.page)
 
-[^11]: Riley-Smith, Tristram. n.d. “Home.” Economic and Social Research Council. University of Cambridge. https://esrc.ukri.org/news-events-and-publications/evidence-briefings/social-media-in-the-armed-forces/.
+[^11]: [Perry, Amy. 2018. “OPSEC, Privacy Concerns at Top of Social Media Issues.” Fort Lee Traveller.](https://www.fortleetraveller.com/commentary/opsec-privacy-concerns-at-top-of-social-media-issues/article_a71205b6-b75c-11e8-9473-5fbfbcf43c67.html)
 
-[^12]: Ruser, Nathan. 2018. “Fitness App Strava Lights up Staff at Military Bases.” BBC News. BBC. https://www.bbc.com/news/technology-42853072.
+[^12]: [Riley-Smith, Tristram. n.d. “Home.” Economic and Social Research Council. University of Cambridge.](https://esrc.ukri.org/news-events-and-publications/evidence-briefings/social-media-in-the-armed-forces/)
 
-[^13]: Willyerd, Jeanne. 2015. “Mentoring Millennials.” Harvard Business Review. https://hbr.org/2010/05/mentoring-millennials.
+[^13]: [Ruser, Nathan. 2018. “Fitness App Strava Lights up Staff at Military Bases.” BBC News. BBC.](https://www.bbc.com/news/technology-42853072)
 
-[^14]: Snapchat Support. https://support.snapchat.com/en-GB/a/snap-map-about.
+[^14]: [Willyerd, Jeanne. 2015. “Mentoring Millennials.” Harvard Business Review.](https://hbr.org/2010/05/mentoring-millennials)
+
+[^15]: [Snapchat Support.](https://support.snapchat.com/en-GB/a/snap-map-about)
 
 ##### Cite this work
 
