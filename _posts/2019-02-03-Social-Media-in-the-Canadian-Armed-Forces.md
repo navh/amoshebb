@@ -4,6 +4,7 @@ updated: 2019-02-03 14:57
 author: Amos Navarre Hebb
 published: true
 ---
+[Click here for printer friendly format](https://www.amoshebb.com/assets/Hebb2019-Social_Media_use_in_CAF.pdf)
 
 *To maintain a positive media presence, the benefits and drawbacks of social media use must be researched by senior staff and policymakers to provide best practices and guidance to newer members of the Canadian Armed Forces.*
 
@@ -202,6 +203,5 @@ Closing the gap that currently exists between newer members and unclear policy w
 	url={https://www.amoshebb.com/2019/02/03/social-media-in-the-canadian-armed-forces},
 	year={2019}, month={2}}
 ```
-
 
 
