@@ -1,5 +1,5 @@
 ---
-layout: page
+published: true
 permalink: /todo
 ---
 
