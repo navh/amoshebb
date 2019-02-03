@@ -1,4 +1,6 @@
 ---
+title: Coatimunde Todo Document
+updated: 1970-01-01
 published: true
 permalink: /todo
 ---
