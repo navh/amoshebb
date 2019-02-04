@@ -2,7 +2,7 @@
 title: Social Media in the Canadian Armed Forces
 updated: 2019-02-03 14:57
 author: Amos Navarre Hebb
-published: true
+published: false
 permalink: /2019/02/03/social-media-in-the-canadian-armed-forces
 ---
 [Click here for printer friendly format](https://www.amoshebb.com/assets/Hebb2019-Social_Media_use_in_CAF.pdf)
@@ -10,6 +10,7 @@ permalink: /2019/02/03/social-media-in-the-canadian-armed-forces
 *To maintain a positive media presence, the benefits and drawbacks of social media use must be researched by senior staff and policymakers to provide best practices and guidance to newer members of the Canadian Armed Forces.*
 
 **Contents**
+
 * TOC
 {:toc}
 
