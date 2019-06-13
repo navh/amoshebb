@@ -1,43 +1,20 @@
 ---
 layout: "page"
-title: Coatimunde
 ---
 
 ##### Computer Optics Analyzing Trajectories In Mostly Unknown, Navigation Denied, Environments
 
 ## Summary
-Navigation toward a Visual Target while Avoiding Obstacles
 
 **Kara Stephan** and **Amos Navarre Hebb**'s project to meet the requirements of our [Fourth Year ECE Project](http://projects.segfaults.net).
 
-This contains all software created for this project, as well as a project diary, report, twelve "Data Items" required, and some software used.
-
-## Software
-
-Links to software within the Repo and quick descriptions about what they do.
-
-## Documentation
-
-Links to documents produced for this project.
-
-[Project Diary](/coatimunde/index.html) to be updated whenever work is done.
-
-[Report]() to be submitted when project is finished.
+This has been mothballed for now, but as long as I’ve got extra space kicking around I’ll leave all of the documents and links to them up. 
 
 ## Deliverables
 
-Links to each deliverable to be added once produced.
-
 * [EEE455/457-DID-01: Project Commitment Document (PCD)](/assets/Project Commitment Document.pdf)
-* EEE455/457-DID-02: Part Order Form
 * [EEE455/457-DID-03: Statement of Requirement (SOR)](/assets/SORHebbStephan.pdf)
 * [EEE455/457-DID-04: Preliminary Design Specification (PDS)](/assets/PrelimDesignHebbStephan.pdf)
 * [EEE455/457-DID-05: Design Review Presentation (DR)](/assets/DesignOverviewHebbStephan.pdf)
 * [EEE455/457-DID-06: Schedule Update (SU)](/assets/ScheduleUpdateHebbStephan.pdf)
 * [EEE455/457-DID-07: Detailed Design Document (DDD)](/assets/DDD.pdf)
-* EEE455/457-DID-08: Final Project Presentation (FPP)
-* EEE455/457-DID-09: Final Project Demonstration (FPD)
-* EEE455/457-DID-10: Out-Clearance Form
-* EEE455/457-DID-11: Design Change Document (DCD)
-* EEE455/457-DID-12: Weekly Progress Report
-

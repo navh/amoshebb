@@ -3,8 +3,4 @@ layout: page
 title: Yearbook
 ---
 
-High heel lady spitting at the nickajack
-Business MAN with a needle `and` a spoon
-Coyote chewwing on a cigarette
-Pack o' young boys going howlin' at the moon
-
+Welcome to my secret internet page. The puzzle isn’t online yet, but please reach out to me if to let me know how you found this page! Cheers, Moi.

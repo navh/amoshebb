@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Résumé
 ---
 
 Amos Navarre Hebb
 =================
 
-Officer Cadet at the Royal Military College 
+Aerospace Engineering Officer, 14AMS, RCAF 
 -------------------------------------------
 
 ### Skills
