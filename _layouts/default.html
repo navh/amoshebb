@@ -1,0 +1,27 @@
+---
+layout: compress
+published: true
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		{% include head.html %}
+	</head>
+
+	<body>
+
+		{% include header.html %}
+
+		<span class="block"><p style="text-align: center;"><a title="All about Amos" href="/about">About</a>&nbsp;&middot;&nbsp;<a title="Updates on my life" href="/blog">Blog</a>&nbsp;&middot;&nbsp;<a title="My life story" href="/career">Timeline</a>&nbsp;&middot;&nbsp;<a title="Get in touch!" href="/contact">Contact</a></p></span>
+		
+		<div id="content">
+			{{ content }}
+		</div>
+
+		{% include footer.html %}
+
+	</body>
+
+</html>
