@@ -2,7 +2,7 @@
 title:              "Amos Navarre Hebb"
 description:        "Amos' website complete with a stale blog"
 author_name:        "Amos Hebb" # change this to your name
-logo_url:           ../assets/mugsquare.jpg
+logo_url:           ~/assets/mugsquare.jpg
 #logo_url:           https://avatars3.githubusercontent.com/u/10426715?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
